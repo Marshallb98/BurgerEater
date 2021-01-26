@@ -1,0 +1,24 @@
+{
+  "name": "burgereater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marshallb98/BurgerEater.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marshallb98/BurgerEater/issues"
+  },
+  "homepage": "https://github.com/Marshallb98/BurgerEater#readme",
+  "dependencies": {
+    "express-handlebars": "^5.2.0",
+    "handlebars": "^4.7.6",
+    "mysql": "^2.18.1"
+  }
+}
