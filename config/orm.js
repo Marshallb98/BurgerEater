@@ -42,7 +42,7 @@ var ORM = {
       queryString += columns.toString();
       queryString += ") ";
       queryString += "VALUES (";
-      queryString += printQuestionMarks(values.length);
+      queryString += printQuestionMarks(value.length);
       queryString += ") ";
   
       console.log(queryString);
