@@ -1,0 +1,24 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+    align-content: center;
+}
+.label {
+    font-weight: bold;
+}
+.create-burger {
+    padding: 5px;
+    margin: 5px;
+    background: bisque
+  }
+  .form-group {
+    margin-bottom: 5px;
+  }
+  body {
+    align-content: center;
+    margin-left: 10%;
+    background-size: 100%;
+    color:#2fc2c2;
+
+}
