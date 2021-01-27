@@ -8,8 +8,8 @@ let connection = mysql.createConnection({
     database: 'burgers_db'
 });
 
-connection.connect(function(err){
-    if(err){
+connection.connect(function (err) {
+    if (err) {
         console.error('Error connecting to database')
     }
     console.log('Connected as ID ' + connection.threadId)
